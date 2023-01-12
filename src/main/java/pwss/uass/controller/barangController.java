@@ -109,6 +109,6 @@ public class barangController {
         }catch(Exception e){ //catch
             message = "Failed to delete the data"; //pesan ketika gagal
         }
-         return message; //return object mesage
+         return message; //return object "mesage"
     }
 }
